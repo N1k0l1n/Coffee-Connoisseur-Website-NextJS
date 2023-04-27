@@ -1,0 +1,50 @@
+[
+    {
+        "id":0,
+        "name":"Oslo Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/11/29/12/54/cafe-1869656_960_720.jpg",
+        "websiteUrl": "https://wwww.oslocoffee.al/",
+        "address" : "4954 Quen St E, Toronto, ON M4M 1K2",
+        "neighbourdhood": "at King and Queen"
+    },
+    {
+        "id":1,
+        "name":"Ben Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/11/18/19/13/buildings-1836478_960_720.jpg",
+        "websiteUrl": "https://wwww.bencoffee.al/",
+        "address" : "5612 Strange St E, Miami, ON NJK 1K2",
+        "neighbourdhood": "at Queen"
+    },
+    {
+        "id":2,
+        "name":"Tony Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2019/07/17/11/02/neon-sign-4343663_960_720.jpg",
+        "websiteUrl": "https://wwww.tonycoffee.al/",
+        "address" : "8484 King St E, KingStone, ON M4M 1K2",
+        "neighbourdhood": "at King"
+    },
+    {
+        "id":3,
+        "name":"Simba Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2016/03/26/23/23/starbucks-1281880_960_720.jpg",
+        "websiteUrl": "https://wwww.simbacoffee.al/",
+        "address" : "8499 Quen St E, NY, ON 564984 1K2",
+        "neighbourdhood": "at OTR and Queen"
+    },
+    {
+        "id":4,
+        "name":"WTV Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2020/10/07/12/33/cafe-5635015_960_720.jpg",
+        "websiteUrl": "https://wwww.oslocoffee.al/",
+        "address" : "4954 Quen St E, Toronto, ON M4M 1K2",
+        "neighbourdhood": "at King and Queen"
+    },
+    {
+        "id":5,
+        "name":"Jack Coffee",
+        "imgUrl": "https://cdn.pixabay.com/photo/2019/06/25/13/59/city-4298285_960_720.jpg",
+        "websiteUrl": "https://wwww.oslocoffee.al/",
+        "address" : "4954 Quen St E, Toronto, ON M4M 1K2",
+        "neighbourdhood": "at King and Queen"
+    }
+]
