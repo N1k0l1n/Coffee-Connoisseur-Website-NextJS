@@ -38,7 +38,7 @@ export default function Home(props) {
           <Image
             alt="logo"
             src="/static/finally.png"
-            width={580}
+            width={500}
             height={200}
           />
         </div>
