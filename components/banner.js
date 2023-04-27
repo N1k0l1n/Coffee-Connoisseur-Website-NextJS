@@ -5,8 +5,8 @@ const banner = (props) => {
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>
-        <span className={styles.title1}>Coffee</span>
-        <span className={styles.title2}>Connoisserur</span>
+        <span className={styles.title1}>Coffee </span>
+        <span className={styles.title2}>Connoisseur</span>
       </h1>
       <p className={styles.subTitle}>Discover your local coffee shops!</p>
       <div className={styles.buttonWrapper}>

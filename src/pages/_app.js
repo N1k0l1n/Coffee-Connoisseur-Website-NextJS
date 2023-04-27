@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
     <div>
       <Component {...pageProps} />
       <footer>
-        <p>&copy; 2023</p>
+        <p>&copy; Coffee Connoisseur 2023</p>
       </footer>
     </div>
   );
